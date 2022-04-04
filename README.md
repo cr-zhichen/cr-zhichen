@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 # Hi,I'm ZhangChengrui 👋
 
-![访问个人主页数量](https://komarev.com/ghpvc/?username=cr-zhichen&color=blue&style=flat-square)
-[![个人博客](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-ccrui.cn-orange?style=flat-square)](https://www.ccrui.cn/)
+![Number of visits](https://komarev.com/ghpvc/?username=cr-zhichen&color=blue&style=flat-square)
+[![Blog](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-ccrui.cn-orange?style=flat-square)](https://www.ccrui.cn/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-zg.chengrui@foxmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zg.chengrui@foxmail.com)](mailto:zg.chengrui@foxmail.com)
 
 I am from China, students who are learning Unity game development.
