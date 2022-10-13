@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Number of visits](https://komarev.com/ghpvc/?username=cr-zhichen&color=blue&style=flat-square)
 [![Blog](https://img.shields.io/badge/Blog-ccrui.cn-orange?style=flat-square)](https://www.ccrui.cn/)
-[![Email Badge](https://img.shields.io/badge/Email-zg.chengrui@foxmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zg.chengrui@foxmail.com)](mailto:zg.chengrui@foxmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-ccrui@ccrui.cn-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zg.chengrui@foxmail.com)](mailto:ccrui@ccrui.cn)
 
 I am from China, students who are learning Unity game development.
 
