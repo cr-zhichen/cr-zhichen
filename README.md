@@ -35,7 +35,6 @@ I am from China, students who are learning Unity game development.
   - An ordinary college student.
   - Like to read science fiction.
   - Like to take pictures.
-  - English level is very poor.
 
 ## GitHub Contribution Graph
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cr-zhichen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
