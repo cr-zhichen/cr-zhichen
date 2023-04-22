@@ -36,5 +36,5 @@ I am from China, students who are learning Unity game development.
   - Like to read science fiction.
   - Like to take pictures.
 
-## GitHub Contribution Graph
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cr-zhichen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ## GitHub Contribution Graph
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cr-zhichen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
