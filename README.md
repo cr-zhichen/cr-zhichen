@@ -14,9 +14,9 @@
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/cr-zhichen/cr-zhichen/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cr-zhichen&show_icons=true" alt="My GitHub Stats" height="160" align="right" width="50%" />
-
 ## 🌟 About Me:
+
+<img src="https://github-readme-stats.vercel.app/api?username=cr-zhichen&show_icons=true" alt="My GitHub Stats" height="" align="right" width="40%" />
 
 - 🎮 **Interest:** Focused on Unity game development
 - 💬 **Connect:** Let's dive deep into Unity or C# discussions!
@@ -24,6 +24,3 @@
   - Just your not-so-typical college student 🎓
   - Avid reader of science fiction 📚
   - Passionate about capturing moments 📷
-
-<!-- ## 📈 GitHub Activity:
-[![Zhang's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cr-zhichen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
