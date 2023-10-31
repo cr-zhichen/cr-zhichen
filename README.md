@@ -1,7 +1,8 @@
 # Hey, I'm Zhang Chengrui! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=cr-zhichen&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=cr-zhichen&color=lightgrey&style=flat-square)
 [![Blog Badge](https://img.shields.io/badge/Blog-ccrui.cn-orange?style=flat-square)](https://blog.ccrui.cn/)
+[![HomePage Badge](https://img.shields.io/badge/HomePage-i.ccrui.cn-blue?style=flat-square)](https://i.ccrui.cn/)
 [![Email Badge](https://img.shields.io/badge/Email-ccrui@ccrui.cn-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zg.chengrui@foxmail.com)](mailto:ccrui@ccrui.cn)
 
 ## 📌 Quick Facts:
