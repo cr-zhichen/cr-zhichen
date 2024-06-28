@@ -9,9 +9,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=cr-zhichen&show_icons=true" alt="My GitHub Stats" height="" align="right" width="40%" />
 
-# 🌏 **Location:** China
-# 🏢 **Currently in:** Dalian
-# 💼 **Position:** Unity Developer
+- 🌏 **Location:** China
+- 🏢 **Currently in:** Dalian
+- 💼 **Position:** Unity Developer
 
 ## 🌟 About Me:
 
