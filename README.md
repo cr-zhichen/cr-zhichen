@@ -9,19 +9,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=cr-zhichen&show_icons=true" alt="My GitHub Stats" height="" align="right" width="40%" />
 
-- 🌏 **Location:** China
-- 🏢 **Currently studying in:** Dalian
-- 📚 **Profile:** Unity game development student
-- 🏫 **School:** Dalian Neusoft University of Information
-- 💼 **Internship:** Currently interning 
-
+# 🌏 **Location:** China
+# 🏢 **Currently in:** Dalian
+# 💼 **Position:** Unity Developer
 
 ## 🌟 About Me:
 
-- 🎮 **Interest:** Focused on Unity game development
-- 💬 **Connect:** Let's dive deep into Unity or C# discussions!
+- 🎮 **Interest:** Focused on Unity game development and recently intrigued by artificial intelligence
+- 💬 **Connect:** Let's dive deep into Unity, C#, or AI discussions!
 - 🚀 **Fun facts:** 
-  - Just your not-so-typical college student 🎓
+  - Just your not-so-typical developer 🎓
   - Avid reader of science fiction 📚
   - Passionate about capturing moments 📷
 
