@@ -1,19 +1,19 @@
 # Hey, I'm Zhang Chengrui! 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=cr-zhichen&show_icons=true" alt="My GitHub Stats" height="100px" align="right" width=""/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=cr-zhichen&color=lightgrey&style=flat-square)
 [![Blog Badge](https://img.shields.io/badge/Blog-ccrui.cn-orange?style=flat-square)](https://blog.ccrui.cn/)
 [![HomePage Badge](https://img.shields.io/badge/HomePage-i.ccrui.cn-blue?style=flat-square)](https://i.ccrui.cn/)
 [![Email Badge](https://img.shields.io/badge/Email-ccrui@ccrui.cn-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zg.chengrui@foxmail.com)](mailto:ccrui@ccrui.cn)
 
-*Unity Developer · Full-stack Developer · AI & Emerging Tech Enthusiast*
+Unity Developer · Full-stack Developer · AI & Emerging Tech Enthusiast
 
----
+## 📌 Quick Facts:
 
-## 📍 Location & Role
-
-Hangzhou, China · **Full-stack Developer**
-
----
+- 🌏 **Location:** China
+- 🏢 **Currently in:** HangZhou
+- 💼 **Position:** Full-stack Developer
 
 ## 🛠️ Tech Stack
 
@@ -21,8 +21,6 @@ Hangzhou, China · **Full-stack Developer**
 * **.NET** — Designed, built, and deployed backend APIs and services
 * **React** — Building modern, responsive interfaces
 * **Node.js** — Actively learning server-side JavaScript
-
----
 
 ## 💼 Experience
 
@@ -41,16 +39,12 @@ Hangzhou, China · **Full-stack Developer**
   * Building and maintaining responsive web applications using React
   * Integrating RESTful services and ensuring seamless user experiences
 
----
-
 ## 🎯 Interests & Hobbies
 
 * 🎧 **Podcasts:** Dev-focused technical shows and conversational interviews
 * 🤖 **AI & Emerging Tech:** Exploring machine learning, new frameworks, and tools
 * 📷 **Photography:** Capturing everyday moments through my lens
 * 📖 **Sci-Fi Reading:** Occasional dive into science fiction worlds
-
----
 
 ## 🎨 GitHub Contribution Streak
 
